@@ -1,2 +1,14 @@
 # 100daysofcodebynk
-On this repository, I will tell about new programs and 100day of code and  new things and I will upload it, then follow this repo.
+
+Hello everyone I am sharing My 100 days of code on this Repo
+
+
+## CODE JOURNEY!!
+<img src="https://j8ahmed.com/wp-content/uploads/2020/10/100_days_of_code_complete_drawing_landscape-1024x536.png" />
+
+## Tech Stack
+
+**C++** 
+
+**DSA** 
+
